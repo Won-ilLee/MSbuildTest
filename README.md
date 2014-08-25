@@ -1,4 +1,0 @@
-MSbuildTest
-===========
-
-MSbuildTest
